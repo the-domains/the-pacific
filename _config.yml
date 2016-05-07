@@ -1,0 +1,28 @@
+name: The Pacific
+favicon: null
+layout_spectrum: 0.7954028591047972
+typography_spectrum: 0.1652022327762097
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
+  brandStrength: 0.6242874478921294
+  lightness: 0.8650035194586962
+  saturation: 0.9456676687113941
+  rhythmicContrast: 0.5500088727567345
+purpose: []
